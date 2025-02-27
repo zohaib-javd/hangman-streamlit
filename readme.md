@@ -56,6 +56,9 @@ streamlit run app.py
 
 ---
 
+## 🔗 [Live Link](https://hangman-zeejay.streamlit.app/)
+---
+
 ## 📩 Contact & Socials
 
 👤 **Zohaib Javed (ZeeJay)**  
